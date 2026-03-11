@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Si utiliza este algoritmo, por favor cítelo como se indica a continuación."
+authors:
+  - family-names: "Angarita Romero"
+    given-names: "William Omar"
+title: "Arquitectura de Transferencia Axonal y Red Semántica Simbólica"
+version: 1.0.0
+date-released: 2026-02-24
+url: "https://github.com"

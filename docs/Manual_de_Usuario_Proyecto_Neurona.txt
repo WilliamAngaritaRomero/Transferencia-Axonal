@@ -1,0 +1,34 @@
+MANUAL DE USUARIO: PROYECTO NEURONA (EDICIÓN LEGADO)
+
+Autor: WILLIAM OMAR ANGARITA ROMERO
+
+Versión: 1.0 (Basada en el algoritmo original 1998-2005)
+
+Entorno de Ejecución: C++17 o superior.
+
+
+1. Estructura del Paquete
+
+Carpeta HISTORICA: Código original (1998-2005) con gestión manual de memoria.
+Carpeta MODERNA: Implementación optimizada con punteros inteligentes y buffer de 1024 caracteres.
+
+
+2. Instrucciones de Compilación (Versión Moderna)
+
+Utilizar un IDE moderno (ej. Code::Blocks o Visual Studio).
+Crear un nuevo proyecto de consola C++.
+Incluir los archivos neurona.hpp, neurona.cpp y main.cpp.
+IMPORTANTE: Configurar el compilador en modo C++17 (o superior) para habilitar std::unique_ptr.
+
+
+3. Modos de Operación
+
+Modo Carga Masiva: Coloque un archivo de texto llamado enciclopedia.txt en la carpeta del ejecutable. Use el formato: Palabra|Definicion. Al iniciar, el programa realizará la Transferencia Axonal automática.
+
+Modo Consulta: Escriba una palabra en el prompt ? para obtener la respuesta almacenada en los axones.
+Modo Aprendizaje: Si la Neurona no conoce un término, solicitará la entrada manual del concepto para su almacenamiento persistente en memoria.nrn.
+
+
+4. Mantenimiento de Memoria
+
+El archivo memoria.nrn es una base de datos binaria. No debe editarse manualmente para evitar la corrupción de la estructura axonal.

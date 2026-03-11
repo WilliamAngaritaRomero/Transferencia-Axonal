@@ -1,0 +1,30 @@
+Celula|Unidad estructural y funcional basica de todos los organismos vivos.
+ADN|Acido desoxirribonucleico que contiene las instrucciones geneticas de los seres vivos.
+Fotosintesis|Proceso mediante el cual las plantas transforman la luz solar en energia quimica.
+Mitocondria|Organelo celular encargado de producir la energia mediante la respiracion.
+Ribosoma|Estructura celular donde se realiza la sintesis de proteinas.
+Membrana|Capa delgada que rodea la celula y regula la entrada y salida de sustancias.
+Nucleo|Organelo que contiene el material genetico y controla las actividades celulares.
+Enzima|Proteina que actua como catalizador acelerando las reacciones quimicas.
+Especie|Grupo de organismos capaces de reproducirse y dejar descendencia fertil.
+Ecosistema|Sistema formado por seres vivos y el medio fisico donde se relacionan.
+Homeostasis|Capacidad de los seres vivos de mantener el equilibrio interno constante.
+Metabolismo|Conjunto de reacciones quimicas que ocurren en una celula para obtener energia.
+Mitosis|Proceso de division celular que produce dos celulas hijas identicas.
+Meiosis|Division celular que produce gametos con la mitad de la dotacion cromosomica.
+Gen|Unidad de herencia que codifica una caracteristica especifica de un organismo.
+Cromosoma|Estructura formada por ADN y proteinas que contiene la informacion genetica.
+Evolucion|Proceso de cambio en las caracteristicas de las poblaciones a traves del tiempo.
+Mutacion|Cambio repentino en la secuencia del ADN de un organismo.
+Bacteria|Organismo unicelular procariota que carece de nucleo definido.
+Virus|Agente infeccioso microscopico que requiere una celula viva para replicarse.
+Hormona|Sustancia quimica producida por glandulas que regula funciones corporales.
+Tejido|Grupo de celulas similares que realizan una funcion especifica en el cuerpo.
+Organo|Estructura formada por diferentes tejidos que cumple una funcion determinada.
+Cloroplasto|Organelo de las plantas donde ocurre la captacion de luz para la fotosintesis.
+Respiracion|Proceso celular para obtener energia a partir de la oxidacion de glucosa.
+Biodiversidad|Variedad de formas de vida que habitan en un ecosistema o en el planeta.
+Adaptacion|Rasgo heredado que aumenta la supervivencia de un organismo en su medio.
+Simbiosis|Relacion estrecha y persistente entre organismos de diferentes especies.
+Parasitismo|Relacion donde un organismo vive a expensas de otro causandole daño.
+Taxonomia|Ciencia que se encarga de la clasificacion de los seres vivos.

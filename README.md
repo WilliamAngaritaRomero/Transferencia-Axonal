@@ -1,4 +1,4 @@
-# Arquitectura de Transferencia Axonal y Red Semántica Simbólica (Proyecto Neurona)
+# Modelo de Transferencia Axonal y Red Semántica Simbólica (Proyecto Neurona)
 
 **Autor:** William Omar Angarita Romero  
 **Origen:** Cúcuta, Colombia (1998-2005 / 2026)  
@@ -27,3 +27,4 @@ El **Proyecto Neurona** es una implementación de Inteligencia Artificial Simbó
 
 ## Licencia
 Este proyecto se distribuye bajo una **Licencia Dual**. Libre para fines académicos/investigación y bajo contrato para fines comerciales. Consulte el archivo `LICENSE.md` para más detalles.
+

@@ -5,10 +5,9 @@ authors:
     given-names: "William Omar"
 title: "Modelo de Transferencia Axonal y Red Semántica Simbólica"
 version: 1.0.0
-date-released: 2026-02-24
-url: "https://github.com/WilliamAngaritaRomero/Transferencia-Axonal"
+date-released: 2026-03-11
+url: "https://github.com"
 identifiers:
   - type: doi
     value: 10.5281/zenodo.18970891
     description: "Technical Paper: Modelo de Transferencia Axonal (MTA)"
-

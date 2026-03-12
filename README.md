@@ -28,3 +28,9 @@ El **Proyecto Neurona** es una implementación de Inteligencia Artificial Simbó
 ## Licencia
 Este proyecto se distribuye bajo una **Licencia Dual**. Libre para fines académicos/investigación y bajo contrato para fines comerciales. Consulte el archivo `LICENSE.md` para más detalles.
 
+## Registro y Citación Científica
+Este modelo cuenta con respaldo legal y académico internacional:
+Registro de Propiedad Intelectual: Dirección Nacional de Derecho de Autor (DNDA) Colombia - Radicado 1-2026-34853.
+Publicación Técnica (DOI): doi.org [1].
+Para citar este trabajo en investigaciones académicas, por favor utilice el archivo CITATION.cff incluido en este repositorio o la referencia del DOI citada anteriormente [1].
+

@@ -3,6 +3,7 @@
 **Autor:** William Omar Angarita Romero  
 **Origen:** Cúcuta, Colombia (1998-2005 / 2026)  
 **Registro Legal:** DNDA Colombia - Radicado 1-2026-34853
+
 **DOI:** 10.5281/zenodo.18970891
 
 ## Descripción

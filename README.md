@@ -2,9 +2,9 @@
 
 **Autor:** William Omar Angarita Romero  
 **Origen:** Cúcuta, Colombia (1998-2005 / 2026)  
-**Registro Legal:** DNDA Colombia - Radicado 1-2026-34853
+**Registro Legal:** DNDA Colombia - Radicado 1-2026-60429
 
-**DOI:** 10.5281/zenodo.18970891
+**DOI:** https://doi.org/10.5281/zenodo.19340140
 
 ## Descripción
 El **Proyecto Neurona** es una implementación de Inteligencia Artificial Simbólica diseñada para el almacenamiento y recuperación de información con eficiencia de tiempo constante $O(L)$. A diferencia de los modelos probabilísticos modernos, este algoritmo utiliza una estructura de **Grafos de Prefijos Recursivos** (Trie Dinámico) que emula la sinapsis biológica mediante una red de 28 axones por nodo.

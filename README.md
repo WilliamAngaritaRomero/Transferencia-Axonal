@@ -1,5 +1,5 @@
 # Algoritmo de Transferencia Axonal: Red Semántica Simbólica con Eficiencia Determinista O(1)
-Proyecto Neurona (1998 - 2005 / Consolidación 2026)
+Proyecto Neurona 
 
 **Autor:** William Omar Angarita Romero  
 **Origen:** Cúcuta, Colombia (1998-2005 / 2026)  

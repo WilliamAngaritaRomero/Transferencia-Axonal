@@ -8,10 +8,10 @@ Proyecto Neurona
 **DOI:** https://doi.org/10.5281/zenodo.19340140
 
 ## Descripción
-El **Proyecto Neurona** es una implementación de Inteligencia Artificial Simbólica diseñada para el almacenamiento y recuperación de información con eficiencia de tiempo constante $O(L)$. A diferencia de los modelos probabilísticos modernos, este algoritmo utiliza una estructura de **Grafos de Prefijos Recursivos** (Trie Dinámico) que emula la sinapsis biológica mediante una red de 28 axones por nodo.
+El **Proyecto Neurona** es una implementación de Inteligencia Artificial Simbólica diseñada para el almacenamiento y recuperación de información con eficiencia de tiempo constante $O(1)$. A diferencia de los modelos probabilísticos modernos, este algoritmo utiliza una estructura de **Grafos de Prefijos Recursivos** (Trie Dinámico) que emula la sinapsis biológica mediante una red de 28 axones por nodo.
 
 ## Características Principales
-- **Eficiencia Determinista:** Búsqueda y recuperación en tiempo $O(L)$, independiente del volumen de datos.
+- **Eficiencia Determinista:** Búsqueda y recuperación en tiempo $O(1)$, independiente del volumen de datos.
 - **Aprendizaje Incremental:** Capacidad de expansión orgánica de la base de conocimiento mediante estímulo humano.
 - **Persistencia Hidratada:** Reconstrucción instantánea de la red axonal desde archivos binarios (.nrn).
 - **IA Ética y Ligera:** Ejecución local sin necesidad de nube, optimizada para bajo consumo de recursos.

@@ -9,5 +9,5 @@ date-released: 2026-03-11
 url: "https://github.com"
 identifiers:
   - type: doi
-    value: 10.5281/zenodo.18970891
+    value: 10.5281/zenodo.19340140
     description: "Technical Paper: Modelo de Transferencia Axonal (MTA)"
